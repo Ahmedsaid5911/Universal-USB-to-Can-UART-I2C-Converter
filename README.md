@@ -22,3 +22,12 @@ Communicating with automotive ECUs (CAN)
 I2C device testing (sensors, EEPROMs, etc.)
 
 Serial monitoring and control via UART
+
+## 🖼️ Device Preview
+
+The image below shows the USB to CAN/UART/I2C Converter mounted on a breadboard.  
+You can see the USB-C connector on the left, the CAN interface on the right (blue connector), and clearly labeled headers for UART, I2C, and power in the center.  
+This visual demonstrates the compact and practical layout, ideal for prototyping and embedded system development.
+
+![Project Screenshot](images/Breadboard_v40.png)
+
